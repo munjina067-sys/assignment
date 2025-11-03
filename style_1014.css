@@ -1,0 +1,107 @@
+.one {
+	position: absolute;
+	width: 100%;
+  	height: 100%;
+  	top: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	right: 0%;
+	background-color: rgb(224,224,224);
+}
+
+.two {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 5%;
+	left: 47%;
+	background-color: black;
+}
+
+.three {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 40%;
+	right: 5%;
+	background-color: black;
+}
+
+.four {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 40%;
+	left: 5%;
+	background-color: black;
+}
+.five {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	bottom: 5%;
+	left: 47%;
+	background-color: black;
+}
+
+.six {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	top: 20%;
+	left: 75%;
+	background-color: rgb(94,94,94);
+}
+
+.seven {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	top: 70%;
+	left: 75%;
+	background-color: rgb(94,94,94);
+}
+
+.eight {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	top: 70%;
+	right: 75%;
+	background-color: rgb(94,94,94);
+}
+
+.nine {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	top: 20%;
+	right: 75%;
+	background-color: rgb(94,94,94);
+}
+
+.ten {
+	position: absolute;
+	width: 300px;
+	height: 20px;
+	top: 42%;
+	left: 48%;
+	background-color: rgb(254,159,159);
+}
+
+.eleven {
+	position: absolute;
+	width: 60px;
+	height: 200px;
+	top: 41%;
+	left: 47.8%;
+	background-color: rgb(63,63,63);
+}
+
+.twelve {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	top: 42%;
+	left: 48%;
+	background-color: rgb(254,159,159);
